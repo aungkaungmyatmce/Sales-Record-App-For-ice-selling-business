@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "590219865295",
+    "project_id": "cholay-ice-v2",
+    "storage_bucket": "cholay-ice-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590219865295:android:36cf127501d3928955dbba",
+        "android_client_info": {
+          "package_name": "cholay_ice.appnity.cho_lay_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590219865295-ous3pj1nt45ip9jhg22jdd7lrkkm4r9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4srKx9pccOTcfRc8EXe2XBSCuBxy8lZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590219865295-ous3pj1nt45ip9jhg22jdd7lrkkm4r9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590219865295:android:d931769fa0edca3655dbba",
+        "android_client_info": {
+          "package_name": "com.example.cholay_ice_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590219865295-ous3pj1nt45ip9jhg22jdd7lrkkm4r9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4srKx9pccOTcfRc8EXe2XBSCuBxy8lZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590219865295-ous3pj1nt45ip9jhg22jdd7lrkkm4r9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

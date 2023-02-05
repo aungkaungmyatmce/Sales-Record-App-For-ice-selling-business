@@ -1,0 +1,108 @@
+{
+
+  "outOfStockList": "Out of Stock List",
+  "productChart" : "Product Chart",
+  "home": "Home",
+  "stock": "Stock",
+  "history": "History",
+  "setting": "Setting",
+  "income": "Income",
+  "expense": "Expense",
+  "netProfit": "Net Profit",
+  "noStockAddedYet": "No Stock Added Yet!",
+
+  "addNewTransaction": "Add New Transaction",
+  "products": "Products",
+  "product": "Product",
+  "name": "Name",
+  "amount": "Amount",
+  "price": "Price",
+  "save": "Save",
+  "note": "Note",
+  "subtract": "Subtract",
+  "add": "Add",
+  "unit": "Unit",
+
+  "stockList": "Stock List",
+  "editStockList": "Edit Stock List",
+  "unitForStock": "Unit For Stock",
+  "unitForUse": "Unit For Use",
+  "addNewStock": "Add New Stock",
+
+  "stockName": "Stock Name",
+  "currentAmount": "Current Amount",
+  "limitAmount": "Limit Amount",
+  "total": "Total",
+  "stockBalance": "Stock Balance",
+  "noStocksAddedYet": "No stocks added yet!",
+
+  "transactionHistory": "Transaction History",
+  "overall": "Overall",
+  "extra": "Extra",
+  "viewReportForThisPeriod": "View Report For this Period",
+  "use": "Use",
+  "noTransactionsForThisMonth": "No transactions for this month!",
+
+  "showAll": "Show All",
+  "showOnlyProduct": "Show Only Product",
+  "showOnlyExtra": "Show Only Extra",
+  "showOnlyStock": "Show Only Stock",
+  "showOnlyExpense": "Show Only Expense",
+  "stockAdd": "Add",
+  "stockUse": "Use",
+
+  "allIncome": "All Income",
+  "productIncome": "Product Income",
+  "extraIncome": "Extra Income",
+  "allExpense": "All Expense",
+  "stockExpense": " Stock Expense",
+  "otherExpense": " Other Expense",
+
+
+  "shopNames": "Shop Names",
+  "incomeNames": "Income Names",
+  "expenseNames": "Expense Names",
+  "productNames": "Product Names",
+  "generatePdf" : " Generate PDF",
+  "changeLanguage": "Change Language",
+  "aboutTheApp": "Product Profile",
+  "logOut": "Log Out",
+
+  "editShopNames": "Edit Shop Names",
+  "addNewShop": "Add New Shop",
+  "shopName": "Shop Name",
+
+  "editIncomeNames": "Edit Income Names",
+  "addNewIncomeName": "Add New Income Name",
+  "incomeName": "Income Name",
+  "addCategory": "Add Category",
+
+  "editExpenseNames": "Edit Expense Names",
+  "addNewExpenseName": "Add New Expense Name",
+  "expenseName": "Expense Name",
+
+  "incomeCategories": "Income Categories",
+  "addNewIncomeCategory": "Add New Income Category",
+  "editIncomeCategory": "Edit Income Category",
+  "incomeCategory": "Income Category",
+
+  "expenseCategories": "Expense Categories",
+  "addNewExpenseCategory": "Add New Expense Category",
+  "editExpenseCategory": "Edit Expense Category",
+  "expenseCategory": "Expense Category",
+
+  "addNewProduct": "Add New Product",
+  "stockItems": "Stock Items",
+  "productName": "Product Name",
+  "addStockItems": "Add Stock Items",
+  "usedAmount": "Used Amount",
+  "editProduct": "Edit Product",
+
+  "createPdf": "Create PDF",
+  "from": "From",
+  "to": "To",
+  "selectDate": "Select Date",
+  "createPdfFile": "Create PDF File",
+  "contactAppCreator": " Contact App Creator"
+
+}

@@ -1,0 +1,108 @@
+{
+
+  "outOfStockList": "လက်ကျန်ကုန်တော့မည့်ပစ္စည်းများ",
+  "productChart" : "ရောင်းကုန်ဇယား",
+  "home": "မူလ",
+  "stock": "ကုန်ကြမ်း",
+  "history": "စာရင်း",
+  "setting": "ပြင်ဆင်",
+  "income": "ဝင်ငွေ",
+  "expense": "ထွက်ငွေ",
+  "netProfit": "အသားတင်အမြတ်",
+  "noStockAddedYet": "No Stock Added Yet!",
+
+  "addNewTransaction": "စာရင်းအသစ်ထည့်မည်",
+  "products": "ရောင်းကုန်",
+  "product": "ရောင်းကုန်",
+  "name": "အမည်",
+  "amount": "ပမာဏ",
+  "price": "စျေးနှုန်း",
+  "save": "သိမ်းမည်",
+  "note": "မှတ်စု",
+  "subtract": "နုတ်မည်",
+  "add": "ထည့်မည်",
+  "unit": "ယူနစ်",
+
+  "stockList": "ကုန်ကြမ်းစာရင်း",
+  "editStockList": "ကုန်ကြမ်းစာရင်းပြင်မယ်",
+  "unitForStock": "ကုန်ကြမ်းယူနစ်",
+  "unitForUse": "အသုံးပြုယူနစ်",
+  "addNewStock": "ကုန်ကြမ်းအသစ်ထည့်မည်",
+
+  "stockName": "ကုန်ကြမ်းအမည်",
+  "currentAmount": "လက်ရှိပမာဏ",
+  "limitAmount": "ကန့်သတ်ပမာဏ",
+  "total": "စုစုပေါင်း",
+  "stockBalance": "ကုန်ကြမ်းလက်ကျန်",
+  "noStocksAddedYet": "ကုန်ကြမ်းမထည့်ထားသေးပါ",
+
+  "transactionHistory": "စာရင်းပေါင်းချုပ်",
+  "overall": "အားလုံး",
+  "extra": "အပို",
+  "viewReportForThisPeriod": "ဇယားကြည့်မည်",
+  "use": "အသုံးပြု",
+  "noTransactionsForThisMonth": "ဒီလအတွက်စာရင်းမရှိပါ!",
+
+  "showAll": "အားလုံးပြ",
+  "showOnlyProduct": "ရောင်းကုန်သာပြ",
+  "showOnlyExtra": "အပိုငွေသာပြ",
+  "showOnlyStock": "ကုန်ကြမ်းသာပြ",
+  "showOnlyExpense": "ထွက်ငွေသာပြ",
+  "stockAdd": "ထည့်",
+  "stockUse": "သုံး",
+
+  "allIncome": "ဝင်ငွေအားလုံး",
+  "productIncome": "ရောင်းကုန်ဝင်ငွေ",
+  "extraIncome": "အပိုဝင်ငွေ",
+  "allExpense": "ထွက်ငွေအားလုံး",
+  "stockExpense": "ကုန်ကြမ်းထွက်ငွေ",
+  "otherExpense": "အခြားထွက်ငွေ",
+
+  "shopNames": "ဆိုင်အမည်များ",
+  "incomeNames": "ဝင်ငွေအမည်များ",
+  "expenseNames": "ထွက်ငွေအမည်များ",
+  "productNames": "ရောင်းကုန်အမည်များ",
+  "generatePdf" : "PDF ထုတ်မည်",
+  "changeLanguage": "ဘာသာစကားပြောင်းမည်",
+  "aboutTheApp": "Appအကြောင်း",
+  "logOut": "ထွက်မည်",
+
+  "editShopNames": "ဆိုင်အမည်ပြင်ဆင်မယ်",
+  "addNewShop": "ဆိုင်အသစ်ထည့်မယ်",
+  "shopName": "ဆိုင်အမည်",
+
+  "editIncomeNames": "ဝင်ငွေအမည်ပြင်ဆင်မယ်",
+  "addNewIncomeName": "ဝင်ငွေအမည်အသစ်ထည့်မယ်",
+  "incomeName": "ဝင်ငွေအမည်",
+  "addCategory": "Add Category",
+
+  "editExpenseNames": "ထွက်ငွေအမည်ပြင်ဆင်မယ်",
+  "addNewExpenseName": "ထွက်ငွေအမည်အသစ်ထည့်မယ်",
+  "expenseName": "ထွက်ငွေအမည်",
+
+  "incomeCategories": "ဝင်ငွေအမျိုးအစားများ",
+  "addNewIncomeCategory": "ဝင်ငွေအမျိုးအစား အသစ်ထည့်မည်",
+  "editIncomeCategory": "ဝင်ငွေအမျိုးအစားပြင်မည်",
+  "incomeCategory": "ဝင်ငွေအမျိုးအစား",
+
+  "expenseCategories": "ထွက်ငွေအမျိုးအစားများ",
+  "addNewExpenseCategory": "ထွက်ငွေအမျိုးအစား အသစ်ထည့်မည်",
+  "editExpenseCategory": "ထွက်ငွေအမျိုးအစား ပြင်မည်",
+  "expenseCategory": "ထွက်ငွေအမျိုးအစား",
+
+  "addNewProduct": "ရောင်းကုန်အသစ်ထည့်မယ်",
+  "stockItems": "ကုန်ကြမ်းများ",
+  "productName": "ရောင်းကုန်အမည်",
+  "addStockItems": "ကုန်ကြမ်းထည့်မယ်",
+  "usedAmount": "အသုံးပြုပမာဏ",
+  "editProduct": "ရောင်းကုန် ပြင်ဆင်မယ်",
+
+  "createPdf": "PDF ထုတ်မည်",
+  "from": "မှ",
+  "to": "သို့",
+  "selectDate": "နေ့စွဲရွေးမည်",
+  "createPdfFile": "PDFဖိုင်ထုတ်မည်",
+  "contactAppCreator": " Appရေးသူနှင့် ဆက်သွယ်မည်"
+
+
+}
